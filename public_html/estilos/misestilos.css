@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 26, 2017, 6:23:54 PM
+    Author     : 00140299
+*/
+
+ul li{
+    list-style-type: none;
+    display: inline;
+     font-size: 24px;
+     background: #7CE2EE;
+     padding:15px;
+     border-radius: 15px;
+
+}
+
+#cabecera{
+   text-align: center;
+   font-family: Calibri;
+   color: #0C75EA;  
+}
+#menu{
+     text-align: center;
+}
+
+#cuerpo{
+    text-align: center;
+    font-family: Calibri;
+    font-size: 20px;
+    
+}
+#pie{
+    text-align: center;
+    background: #7CE2EE;
+    font-size: 15px;
+    color: #3C424A;  
+}
