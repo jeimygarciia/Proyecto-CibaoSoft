@@ -39,3 +39,50 @@ ul li{
     font-size: 15px;
     color: #3C424A;  
 }
+form{
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+#formulario h1 { text-align: center; 
+}
+
+label{
+    display: inline-block;
+    width: 200px;
+    text-align: left;   
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+input,textarea{
+   width: 300px;
+   font: 1em cursive;
+   border: 1px solid black;
+}
+input:focus, textarea:focus{
+    border-color: blue;
+} 
+textarea{
+    vertical-align: middle;
+}
+
+.boton{
+  padding-right:500px;  
+}
+button{
+    font-size: 1em;
+  font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color:#3C424A
+}
+
+a:hover{
+    font-size: 28px;
+    color:  white;
+}
